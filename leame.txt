@@ -5,3 +5,4 @@ Sensu-pm
 inme.jonathan.dominguez@gmail.com
 Axel Yael Reynaga Hernandez 
 AxelYR
+JosueCarlosGG
